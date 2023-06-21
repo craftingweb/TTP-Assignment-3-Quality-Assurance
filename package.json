@@ -1,0 +1,23 @@
+{
+  "name": "testhome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mathFunctions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliPri/TTP-Assignment_3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliPri/TTP-Assignment_3/issues"
+  },
+  "homepage": "https://github.com/VitaliPri/TTP-Assignment_3#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
